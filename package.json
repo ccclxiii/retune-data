@@ -1,0 +1,15 @@
+{
+  "name": "retune-data",
+  "private": true,
+  "type": "module",
+  "description": "ReTune's station data and the daily Greek podcasts list",
+  "scripts": {
+    "podcasts": "node podcasts/build.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.12.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
