@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-24T21:28:59.121Z",
+ "updated": "2026-11-24T21:48:53.968Z",
  "shows": [
   {
    "feed": "https://feeds.libsyn.com/469428/rss",
@@ -468,17 +468,6 @@
    "newest": 1792011600000
   },
   {
-   "feed": "https://anchor.fm/s/112d0f44/podcast/rss",
-   "title": "Business Talks",
-   "author": "Business Review Greece",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2781657/2781657-1735162596127-802a9d7d05008.jpg",
-   "language": "el",
-   "categories": [
-    "Business"
-   ],
-   "newest": 1795542167000
-  },
-  {
    "feed": "https://anchor.fm/s/ccc0c5c/podcast/rss",
    "title": "3 στον αέρα",
    "author": "Insomnia.gr",
@@ -872,6 +861,17 @@
    "newest": 1794970800000
   },
   {
+   "feed": "https://anchor.fm/s/112d0f44/podcast/rss",
+   "title": "Business Talks",
+   "author": "Business Review Greece",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2781657/2781657-1735162596127-802a9d7d05008.jpg",
+   "language": "el",
+   "categories": [
+    "Business"
+   ],
+   "newest": 1794850200000
+  },
+  {
    "feed": "https://anchor.fm/s/10084d964/podcast/rss",
    "title": "Ψυχή και Σώμα",
    "author": "LiFO Podcasts",
@@ -1015,6 +1015,136 @@
     "Comedy"
    ],
    "newest": 1789315200000
+  }
+ ],
+ "stations": [
+  {
+   "names": [
+    "ΣΚΑΪ 100.3",
+    "Skai 100.3",
+    "SKAI 100.3 FM"
+   ],
+   "sites": [
+    "skai.gr",
+    "skairadio.gr"
+   ],
+   "company": "ΣΚΑΪ Podcasts"
+  },
+  {
+   "names": [
+    "Παραπολιτικά 90.1",
+    "Παραπολιτικά FM 90.1"
+   ],
+   "sites": [
+    "parapolitikaradio.gr"
+   ],
+   "shows": [
+    {
+     "feed": "https://anchor.fm/s/11879b7d8/podcast/rss",
+     "title": "The Hook",
+     "author": "Parapolitika.gr",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46955974/46955974-1791890920289-34abcc374736f.jpg",
+     "language": "el",
+     "categories": [
+      "News"
+     ],
+     "newest": 1795518464000
+    },
+    {
+     "feed": "https://anchor.fm/s/11821127c/podcast/rss",
+     "title": "Δική μου η μπάλα",
+     "author": "Parapolitika.gr",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46897879/46897879-1791897402857-32cebe6832fcb.jpg",
+     "language": "el",
+     "categories": [
+      "Sports"
+     ],
+     "newest": 1795431723000
+    },
+    {
+     "feed": "https://anchor.fm/s/113a8c960/podcast/rss",
+     "title": "Εγκλήματα που συγκλόνισαν",
+     "author": "Parapolitika.gr",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46147960/46147960-1781265194815-0569029e09e1a.jpg",
+     "language": "el",
+     "categories": [
+      "True Crime"
+     ],
+     "newest": 1794733200000
+    }
+   ]
+  },
+  {
+   "names": [
+    "Best 92.6"
+   ],
+   "sites": [
+    "best926.gr"
+   ],
+   "shows": [
+    {
+     "feed": "https://feeds.simplecast.com/D5s7aCt_",
+     "title": "Citizen @ Best 92.6",
+     "author": "Κώστας Γιαννακίδης",
+     "image": "https://image.simplecastcdn.com/images/02346a47-6aac-446c-9cc1-0f2100ca74b0/82797b32-c455-4543-821f-e0312b7af6ae/3000x3000/thumbnail.jpg?aid=rss_feed",
+     "language": "el",
+     "categories": [
+      "Society",
+      "Culture",
+      "Relationships",
+      "Comedy",
+      "Stand-up",
+      "Music"
+     ],
+     "newest": 1795525992000
+    }
+   ]
+  },
+  {
+   "names": [
+    "Radio 984",
+    "984 Kriti",
+    "Ράδιο 98.4"
+   ],
+   "sites": [
+    "radio984.gr"
+   ],
+   "shows": [
+    {
+     "feed": "https://anchor.fm/s/7eb95540/podcast/rss",
+     "title": "Ράδιο 98.4",
+     "author": "Ράδιο 98.4",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21160752/21160752-1728294434194-4729c808388ee.jpg",
+     "language": "el",
+     "categories": [
+      "News",
+      "News Commentary"
+     ],
+     "newest": 1795515016000
+    }
+   ]
+  },
+  {
+   "names": [
+    "Cosmoradio 95.1",
+    "Cosmoradio 95,1"
+   ],
+   "sites": [
+    "cosmoradio.gr"
+   ],
+   "shows": [
+    {
+     "feed": "https://anchor.fm/s/14724958/podcast/rss",
+     "title": "Cosmoradio 95.1",
+     "author": "Cosmoradio",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3330342/3330342-1701339665548-4f57f033191f6.jpg",
+     "language": "el",
+     "categories": [
+      "Music"
+     ],
+     "newest": 1795518676000
+    }
+   ]
   }
  ],
  "companies": [

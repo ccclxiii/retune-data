@@ -1,5 +1,5 @@
 {
-  "about": "Greek podcasts for ReTune's popular list (Greece and Cyprus), each by its own feed. 'first': the most listened; 'then': the rest. Each day podcasts/build.mjs orders each group (rising shows first, then the newest episode first) and writes popular-gr.json. 'companies': networks whose shows carry each maker's own name.",
+  "about": "Greek podcasts for ReTune's popular list (Greece and Cyprus), each by its own feed. 'first': the most listened; 'then': the rest. Each day podcasts/build.mjs orders each group (the newest episode first) and writes popular-gr.json. 'stations': Greek radio stations' own shows (found by the station's name or website), by their feeds or the company name their shows carry. 'companies': networks whose shows carry each maker's own name.",
   "shows": {
     "first": [
       "https://feeds.simplecast.com/oDFHCxjS",
@@ -85,6 +85,37 @@
       "https://sacredbelt.com/feed/kati-na-kaiei"
     ]
   },
+  "stations": [
+    {
+      "names": ["ΣΚΑΪ 100.3", "Skai 100.3", "SKAI 100.3 FM"],
+      "sites": ["skai.gr", "skairadio.gr"],
+      "company": "ΣΚΑΪ Podcasts"
+    },
+    {
+      "names": ["Παραπολιτικά 90.1", "Παραπολιτικά FM 90.1"],
+      "sites": ["parapolitikaradio.gr"],
+      "feeds": [
+        "https://anchor.fm/s/11821127c/podcast/rss",
+        "https://anchor.fm/s/11879b7d8/podcast/rss",
+        "https://anchor.fm/s/113a8c960/podcast/rss"
+      ]
+    },
+    {
+      "names": ["Best 92.6"],
+      "sites": ["best926.gr"],
+      "feeds": ["https://feeds.simplecast.com/D5s7aCt_"]
+    },
+    {
+      "names": ["Radio 984", "984 Kriti", "Ράδιο 98.4"],
+      "sites": ["radio984.gr"],
+      "feeds": ["https://anchor.fm/s/7eb95540/podcast/rss"]
+    },
+    {
+      "names": ["Cosmoradio 95.1", "Cosmoradio 95,1"],
+      "sites": ["cosmoradio.gr"],
+      "feeds": ["https://anchor.fm/s/14724958/podcast/rss"]
+    }
+  ],
   "companies": [
     {
       "name": "Sacred Belt",

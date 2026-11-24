@@ -2,8 +2,10 @@
  * The daily robot for ReTune's Greek podcasts list (GitHub Actions runs it every morning).
  *
  * In: greek-shows.json, our list of Greek shows in two groups ("first": the most listened,
- * "then": the rest), and podcast companies whose shows carry each maker's own name.
- * Out: popular-gr.json, what the app shows first as "Δημοφιλή" for Greece and Cyprus.
+ * "then": the rest), Greek stations' own shows, and podcast companies whose shows carry each
+ * maker's own name.
+ * Out: popular-gr.json, what the app shows first as "Δημοφιλή" for Greece and Cyprus, a
+ * station's shows in its player, and the companies.
  *
  * Every day it reads each show's own feed (its name, cover, categories, newest episode). In each
  * group the newest episode comes first. A show without an episode for 45 days goes to the end;
@@ -156,7 +158,8 @@ async function main() {
     [...(before?.shows ?? []), ...(before?.companies ?? []).flatMap(company => company.shows)].map(show => [feedKey(show.feed), show]),
   );
   const groups = [list.shows.first, list.shows.then];
-  const read = await readAll([...groups.flat(), ...list.companies.flatMap(company => company.feeds)], yesterday);
+  const stationFeeds = list.stations.flatMap(station => station.feeds ?? []);
+  const read = await readAll([...groups.flat(), ...stationFeeds, ...list.companies.flatMap(company => company.feeds)], yesterday);
 
   const now = Date.now();
   const age = show => (show.newest ? (now - show.newest) / DAY : Infinity);
@@ -185,15 +188,26 @@ async function main() {
     };
   });
 
-  const content = { version: 1, shows, companies };
+  // A station's own shows: read from their feeds (the newest episode first, the stopped ones
+  // left out), or the company name its shows carry (the app finds them in the directory).
+  const stations = list.stations.map(station => ({
+    names: station.names,
+    sites: station.sites ?? [],
+    ...(station.company ? { company: station.company } : {}),
+    ...(station.feeds
+      ? { shows: newestFirst(station.feeds.map(url => read.get(url)).filter(show => show && age(show) <= GONE_DAYS)) }
+      : {}),
+  }));
+
+  const content = { version: 1, shows, stations, companies };
   const { updated: _updated, ...beforeContent } = before ?? {};
   if (before && JSON.stringify(beforeContent) === JSON.stringify(content)) {
     console.log('no change');
     return;
   }
-  await writeFile(OUT, `${JSON.stringify({ version: 1, updated: new Date(now).toISOString(), shows, companies }, null, 1)}\n`);
+  await writeFile(OUT, `${JSON.stringify({ version: 1, updated: new Date(now).toISOString(), ...content }, null, 1)}\n`);
   const resting = shows.filter(show => age(show) > RESTING_DAYS).length;
-  console.log(`${shows.length} shows (${resting} resting at the end), ${companies.length} companies`);
+  console.log(`${shows.length} shows (${resting} resting at the end), ${stations.length} stations, ${companies.length} companies`);
 }
 
 await main();
