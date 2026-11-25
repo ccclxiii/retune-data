@@ -1,18 +1,30 @@
 {
  "version": 1,
- "updated": "2026-11-24T21:48:53.968Z",
+ "updated": "2026-11-25T14:31:07.880Z",
  "shows": [
   {
-   "feed": "https://feeds.libsyn.com/469428/rss",
-   "title": "Η Εφημερίδα των Συντακτών",
-   "author": "efsyn.gr",
-   "image": "https://static.libsyn.com/p/assets/0/0/4/1/00417316b13a588aa04421dee9605cbd/_Podcasts_2.jpg",
+   "feed": "https://anchor.fm/s/fe59e6fc/podcast/rss",
+   "title": "Ό,τι να 'ναι με τον Μάνο Βουλαρίνο",
+   "author": "ΣΚΑΪ Podcasts | Μάνος Βουλαρίνος",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42573047/42573047-1733413197056-84cc206709482.jpg",
+   "language": "el",
+   "categories": [
+    "Comedy"
+   ],
+   "newest": 1795612305000
+  },
+  {
+   "feed": "https://feeds.acast.com/public/shows/5fa410322d9ce143ce36bfd7",
+   "title": "Ellinofreneia Official",
+   "author": "Digital Minds",
+   "image": "https://assets.pippa.io/shows/5fa410322d9ce143ce36bfd7/1612862979296-20f56c095f7db7830f47ab43ddaeefb8.jpeg",
    "language": "el",
    "categories": [
     "News",
-    "Arts"
+    "Politics",
+    "Comedy"
    ],
-   "newest": 1795543207000
+   "newest": 1795609463000
   },
   {
    "feed": "https://feeds.simplecast.com/D5s7aCt_",
@@ -28,20 +40,92 @@
     "Stand-up",
     "Music"
    ],
-   "newest": 1795525992000
+   "newest": 1795608959000
   },
   {
-   "feed": "https://feeds.acast.com/public/shows/5fa410322d9ce143ce36bfd7",
-   "title": "Ellinofreneia Official",
-   "author": "Digital Minds",
-   "image": "https://assets.pippa.io/shows/5fa410322d9ce143ce36bfd7/1612862979296-20f56c095f7db7830f47ab43ddaeefb8.jpeg",
+   "feed": "https://anchor.fm/s/1fab1610/podcast/rss",
+   "title": "Shot Clock Podcast",
+   "author": "Shot Clock",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/5213060/5213060-1604508154601-0dae624ad56e7.jpg",
+   "language": "el",
+   "categories": [
+    "Sports",
+    "Basketball"
+   ],
+   "newest": 1795603152000
+  },
+  {
+   "feed": "https://anchor.fm/s/7eb95540/podcast/rss",
+   "title": "Ράδιο 98.4",
+   "author": "Ράδιο 98.4",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21160752/21160752-1728294434194-4729c808388ee.jpg",
    "language": "el",
    "categories": [
     "News",
-    "Politics",
-    "Comedy"
+    "News Commentary"
    ],
-   "newest": 1795521800000
+   "newest": 1795601154000
+  },
+  {
+   "feed": "https://anchor.fm/s/f2708404/podcast/rss",
+   "title": "Rainbow Mermaids",
+   "author": "Rainbow Mermaids",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40574601/40574601-1729011654360-06aabfd793d18.jpg",
+   "language": "el",
+   "categories": [
+    "Education"
+   ],
+   "newest": 1795596383000
+  },
+  {
+   "feed": "https://anchor.fm/s/117ed70e8/podcast/rss",
+   "title": "Explainer",
+   "author": "NEWS 24/7 | Σταύρος Διοσκουρίδης",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46864042/46864042-1790956284652-0a9815c150e98.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Daily News"
+   ],
+   "newest": 1795586400000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/2x4Sf1Fu",
+   "title": "ΤΟ ΒΗΜΑ Σήμερα",
+   "author": "Alter Ego Media",
+   "image": "https://image.simplecastcdn.com/images/b4ef00a7-e69a-4e86-9ecf-4672cbd11ef0/f9d9e15a-300a-4f55-8229-a9e0b82f2ffb/3000x3000/to-bhma-shmera-podcast-cover.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "News",
+    "Daily News",
+    "News Commentary",
+    "Politics"
+   ],
+   "newest": 1795575600000
+  },
+  {
+   "feed": "https://anchor.fm/s/15c65420/podcast/rss",
+   "title": "Μάθε το παιχνίδι του χρήματος | Game of Money",
+   "author": "Alexios Vandoros",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3553192/3553192-1682752395983-194398fd1296.jpg",
+   "language": "el",
+   "categories": [
+    "Business",
+    "Entrepreneurship"
+   ],
+   "newest": 1795575600000
+  },
+  {
+   "feed": "https://feeds.libsyn.com/469428/rss",
+   "title": "Η Εφημερίδα των Συντακτών",
+   "author": "efsyn.gr",
+   "image": "https://static.libsyn.com/p/assets/0/0/4/1/00417316b13a588aa04421dee9605cbd/_Podcasts_2.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Arts"
+   ],
+   "newest": 1795543207000
   },
   {
    "feed": "https://feeds.acast.com/public/shows/6017fdf9312dd56dd20b09ca",
@@ -56,55 +140,6 @@
     "Culture"
    ],
    "newest": 1795521512000
-  },
-  {
-   "feed": "https://anchor.fm/s/fe59e6fc/podcast/rss",
-   "title": "Ό,τι να 'ναι με τον Μάνο Βουλαρίνο",
-   "author": "ΣΚΑΪ Podcasts | Μάνος Βουλαρίνος",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42573047/42573047-1733413197056-84cc206709482.jpg",
-   "language": "el",
-   "categories": [
-    "Comedy"
-   ],
-   "newest": 1795519697000
-  },
-  {
-   "feed": "https://anchor.fm/s/1fab1610/podcast/rss",
-   "title": "Shot Clock Podcast",
-   "author": "Shot Clock",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/5213060/5213060-1604508154601-0dae624ad56e7.jpg",
-   "language": "el",
-   "categories": [
-    "Sports",
-    "Basketball"
-   ],
-   "newest": 1795515806000
-  },
-  {
-   "feed": "https://anchor.fm/s/7eb95540/podcast/rss",
-   "title": "Ράδιο 98.4",
-   "author": "Ράδιο 98.4",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21160752/21160752-1728294434194-4729c808388ee.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "News Commentary"
-   ],
-   "newest": 1795515016000
-  },
-  {
-   "feed": "https://feeds.simplecast.com/2x4Sf1Fu",
-   "title": "ΤΟ ΒΗΜΑ Σήμερα",
-   "author": "Alter Ego Media",
-   "image": "https://image.simplecastcdn.com/images/b4ef00a7-e69a-4e86-9ecf-4672cbd11ef0/f9d9e15a-300a-4f55-8229-a9e0b82f2ffb/3000x3000/to-bhma-shmera-podcast-cover.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "News",
-    "Daily News",
-    "News Commentary",
-    "Politics"
-   ],
-   "newest": 1795489200000
   },
   {
    "feed": "https://www.spreaker.com/show/5179672/episodes/feed",
@@ -181,18 +216,6 @@
    "newest": 1795341600000
   },
   {
-   "feed": "https://anchor.fm/s/117ed70e8/podcast/rss",
-   "title": "Explainer",
-   "author": "NEWS 24/7 | Σταύρος Διοσκουρίδης",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46864042/46864042-1790956284652-0a9815c150e98.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Daily News"
-   ],
-   "newest": 1795334640000
-  },
-  {
    "feed": "https://feeds.simplecast.com/de_d93JT",
    "title": "Αληθινά εγκλήματα",
    "author": "LIFO PODCASTS",
@@ -249,18 +272,6 @@
     "Politics"
    ],
    "newest": 1795246200000
-  },
-  {
-   "feed": "https://anchor.fm/s/15c65420/podcast/rss",
-   "title": "Μάθε το παιχνίδι του χρήματος | Game of Money",
-   "author": "Alexios Vandoros",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3553192/3553192-1682752395983-194398fd1296.jpg",
-   "language": "el",
-   "categories": [
-    "Business",
-    "Entrepreneurship"
-   ],
-   "newest": 1795237200000
   },
   {
    "feed": "https://feeds.simplecast.com/oDFHCxjS",
@@ -408,17 +419,6 @@
    "newest": 1794998950000
   },
   {
-   "feed": "https://anchor.fm/s/f2708404/podcast/rss",
-   "title": "Rainbow Mermaids",
-   "author": "Rainbow Mermaids",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40574601/40574601-1729011654360-06aabfd793d18.jpg",
-   "language": "el",
-   "categories": [
-    "Education"
-   ],
-   "newest": 1794984285000
-  },
-  {
    "feed": "https://anchor.fm/s/fb3029a0/podcast/rss",
    "title": "Βελανίδια κανείς;",
    "author": "Λευτέρης Κοκκίνης",
@@ -468,15 +468,64 @@
    "newest": 1792011600000
   },
   {
-   "feed": "https://anchor.fm/s/ccc0c5c/podcast/rss",
-   "title": "3 στον αέρα",
-   "author": "Insomnia.gr",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2046991/2046991-1600186770497-f54057cc73e2d.jpg",
+   "feed": "https://feeds.transistor.fm/623baa3d-d91e-4bab-bd4b-a9cab93ba51a",
+   "title": "Η Φάρμα των Ζώων",
+   "author": "ThePressProject",
+   "image": "https://img.transistorcdn.com/4BkcWBMCTzh7vbuZ-Xusq0HiU92xoitUSatRsK0O5U8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNjQ4/NjQ1MGY2MjUzZWNj/ZmFjYzNlNzAxNWFm/OWExZC5wbmc.jpg",
    "language": "el",
    "categories": [
-    "Technology"
+    "News",
+    "Politics",
+    "News Commentary"
    ],
-   "newest": 1795536382000
+   "newest": 1795615135000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/r02Ugxuo",
+   "title": "ATHENS VOICE Podcast",
+   "author": "ATHENS VOICE",
+   "image": "https://image.simplecastcdn.com/images/ad7f8fb7-845a-405d-a21e-2efe06228813/222e5be2-203f-4e91-ab87-0405c0509344/3000x3000/fb-20pin-20tetragono.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "Arts",
+    "Music"
+   ],
+   "newest": 1795591288000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/YHMGXfHj",
+   "title": "Το Podcast του Οδυσσέα Ιωάννου",
+   "author": "NEWS24/7 | Οδυσσέας Ιωάννου",
+   "image": "https://image.simplecastcdn.com/images/d59cf192-92a4-47c4-b72c-3496b0875f3e/76b1ec13-333d-48e9-951f-9fc36a914dc2/3000x3000/odisseas-ioannou-podcast-cover-20-1.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "Arts"
+   ],
+   "newest": 1795586400000
+  },
+  {
+   "feed": "https://feeds.transistor.fm/terror-404",
+   "title": "Terror 404",
+   "author": "It's My Life Network",
+   "image": "https://img.transistorcdn.com/2a35urTs8DnXZFGNN1jY5y7IzIoLV6Lpbr2rIwmnXG8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyMjk2LzE2MjQ4/ODA0MTMtYXJ0d29y/ay5qcGc.jpg",
+   "language": "el",
+   "categories": [
+    "True Crime",
+    "Comedy"
+   ],
+   "newest": 1795582500000
+  },
+  {
+   "feed": "https://feeds.feedburner.com/mpogiopoulos",
+   "title": "Νίκος Μπογιόπουλος",
+   "author": "Νίκος Μπογιόπουλος",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37380521/37380521-1681924821198-90f42f2f4ddf8.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Politics"
+   ],
+   "newest": 1795560947000
   },
   {
    "feed": "https://rss.buzzsprout.com/1904089.rss",
@@ -491,20 +540,29 @@
     "Arts",
     "Books"
    ],
-   "newest": 1795532400000
+   "newest": 1795557600000
   },
   {
-   "feed": "https://feeds.transistor.fm/623baa3d-d91e-4bab-bd4b-a9cab93ba51a",
-   "title": "Η Φάρμα των Ζώων",
-   "author": "ThePressProject",
-   "image": "https://img.transistorcdn.com/4BkcWBMCTzh7vbuZ-Xusq0HiU92xoitUSatRsK0O5U8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNjQ4/NjQ1MGY2MjUzZWNj/ZmFjYzNlNzAxNWFm/OWExZC5wbmc.jpg",
+   "feed": "https://anchor.fm/s/112d0f44/podcast/rss",
+   "title": "Business Talks",
+   "author": "Business Review Greece",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2781657/2781657-1735162596127-802a9d7d05008.jpg",
    "language": "el",
    "categories": [
-    "News",
-    "Politics",
-    "News Commentary"
+    "Business"
    ],
-   "newest": 1795531063000
+   "newest": 1795542167000
+  },
+  {
+   "feed": "https://anchor.fm/s/ccc0c5c/podcast/rss",
+   "title": "3 στον αέρα",
+   "author": "Insomnia.gr",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2046991/2046991-1600186770497-f54057cc73e2d.jpg",
+   "language": "el",
+   "categories": [
+    "Technology"
+   ],
+   "newest": 1795536382000
   },
   {
    "feed": "https://sacredbelt.com/feed/calcio-sbagliato",
@@ -572,18 +630,6 @@
    "newest": 1795505400000
   },
   {
-   "feed": "https://feeds.simplecast.com/r02Ugxuo",
-   "title": "ATHENS VOICE Podcast",
-   "author": "ATHENS VOICE",
-   "image": "https://image.simplecastcdn.com/images/ad7f8fb7-845a-405d-a21e-2efe06228813/222e5be2-203f-4e91-ab87-0405c0509344/3000x3000/fb-20pin-20tetragono.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "Arts",
-    "Music"
-   ],
-   "newest": 1795496400000
-  },
-  {
    "feed": "https://rss.buzzsprout.com/2021218.rss",
    "title": "Επιεικείς Έφηβοι",
    "author": "Λευτέρης & Αντώνης",
@@ -597,18 +643,6 @@
     "Music History"
    ],
    "newest": 1795489200000
-  },
-  {
-   "feed": "https://feeds.feedburner.com/mpogiopoulos",
-   "title": "Νίκος Μπογιόπουλος",
-   "author": "Νίκος Μπογιόπουλος",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37380521/37380521-1681924821198-90f42f2f4ddf8.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Politics"
-   ],
-   "newest": 1795462122000
   },
   {
    "feed": "https://feeds.acast.com/public/shows/61ebe716fd33c00012c9abe4",
@@ -760,18 +794,6 @@
    "newest": 1795071600000
   },
   {
-   "feed": "https://feeds.transistor.fm/terror-404",
-   "title": "Terror 404",
-   "author": "It's My Life Network",
-   "image": "https://img.transistorcdn.com/2a35urTs8DnXZFGNN1jY5y7IzIoLV6Lpbr2rIwmnXG8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyMjk2LzE2MjQ4/ODA0MTMtYXJ0d29y/ay5qcGc.jpg",
-   "language": "el",
-   "categories": [
-    "True Crime",
-    "Comedy"
-   ],
-   "newest": 1795064100000
-  },
-  {
    "feed": "https://feed.podbean.com/miastigmiparafrosinis/feed.xml",
    "title": "Μια στιγμή παραφροσύνης",
    "author": "Christos Sotirakopoulos",
@@ -823,17 +845,6 @@
    "newest": 1794985200000
   },
   {
-   "feed": "https://feeds.simplecast.com/YHMGXfHj",
-   "title": "Το Podcast του Οδυσσέα Ιωάννου",
-   "author": "NEWS24/7 | Οδυσσέας Ιωάννου",
-   "image": "https://image.simplecastcdn.com/images/d59cf192-92a4-47c4-b72c-3496b0875f3e/76b1ec13-333d-48e9-951f-9fc36a914dc2/3000x3000/odisseas-ioannou-podcast-cover-20-1.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "Arts"
-   ],
-   "newest": 1794983143000
-  },
-  {
    "feed": "https://feeds.simplecast.com/csbIsi_A",
    "title": "The Review",
    "author": "LIFO PODCASTS",
@@ -859,17 +870,6 @@
     "Leisure"
    ],
    "newest": 1794970800000
-  },
-  {
-   "feed": "https://anchor.fm/s/112d0f44/podcast/rss",
-   "title": "Business Talks",
-   "author": "Business Review Greece",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2781657/2781657-1735162596127-802a9d7d05008.jpg",
-   "language": "el",
-   "categories": [
-    "Business"
-   ],
-   "newest": 1794850200000
   },
   {
    "feed": "https://anchor.fm/s/10084d964/podcast/rss",
@@ -963,6 +963,18 @@
    "newest": 1792929216000
   },
   {
+   "feed": "https://anchor.fm/s/5a34e540/podcast/rss",
+   "title": "Δεν παίζει άγχος",
+   "author": "Spilios Floros",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15034160/15034160-1762183973961-e17469dac5c54.jpg",
+   "language": "el",
+   "categories": [
+    "Comedy",
+    "Comedy Interviews"
+   ],
+   "newest": 1788350400000
+  },
+  {
    "feed": "https://feeds.captivate.fm/istoriatiskiriakis/",
    "title": "Η ιστορία της Κυριακής",
    "author": "LIVETALKS",
@@ -975,18 +987,6 @@
     "Culture"
    ],
    "newest": 1791675900000
-  },
-  {
-   "feed": "https://anchor.fm/s/5a34e540/podcast/rss",
-   "title": "Δεν παίζει άγχος",
-   "author": "Spilios Floros",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15034160/15034160-1762183973961-e17469dac5c54.jpg",
-   "language": "el",
-   "categories": [
-    "Comedy",
-    "Comedy Interviews"
-   ],
-   "newest": 1788350400000
   },
   {
    "feed": "https://feeds.simplecast.com/zwc2Ldir",
@@ -1048,7 +1048,7 @@
      "categories": [
       "News"
      ],
-     "newest": 1795518464000
+     "newest": 1795603879000
     },
     {
      "feed": "https://anchor.fm/s/11821127c/podcast/rss",
@@ -1096,7 +1096,7 @@
       "Stand-up",
       "Music"
      ],
-     "newest": 1795525992000
+     "newest": 1795608959000
     }
    ]
   },
@@ -1120,7 +1120,7 @@
       "News",
       "News Commentary"
      ],
-     "newest": 1795515016000
+     "newest": 1795601154000
     }
    ]
   },
@@ -1142,7 +1142,7 @@
      "categories": [
       "Music"
      ],
-     "newest": 1795518676000
+     "newest": 1795604300000
     }
    ]
   }
