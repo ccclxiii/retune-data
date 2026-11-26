@@ -1,31 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-25T14:31:07.880Z",
+ "updated": "2026-11-26T13:58:36.106Z",
  "shows": [
-  {
-   "feed": "https://anchor.fm/s/fe59e6fc/podcast/rss",
-   "title": "Ό,τι να 'ναι με τον Μάνο Βουλαρίνο",
-   "author": "ΣΚΑΪ Podcasts | Μάνος Βουλαρίνος",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42573047/42573047-1733413197056-84cc206709482.jpg",
-   "language": "el",
-   "categories": [
-    "Comedy"
-   ],
-   "newest": 1795612305000
-  },
-  {
-   "feed": "https://feeds.acast.com/public/shows/5fa410322d9ce143ce36bfd7",
-   "title": "Ellinofreneia Official",
-   "author": "Digital Minds",
-   "image": "https://assets.pippa.io/shows/5fa410322d9ce143ce36bfd7/1612862979296-20f56c095f7db7830f47ab43ddaeefb8.jpeg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Politics",
-    "Comedy"
-   ],
-   "newest": 1795609463000
-  },
   {
    "feed": "https://feeds.simplecast.com/D5s7aCt_",
    "title": "Citizen @ Best 92.6",
@@ -40,7 +16,149 @@
     "Stand-up",
     "Music"
    ],
-   "newest": 1795608959000
+   "newest": 1795699390000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/u14O25aF",
+   "title": "Ζοσιμάρ",
+   "author": "SPORT24 | Θέμης Καίσαρης",
+   "image": "https://image.simplecastcdn.com/images/ea98b0fa-90ad-468f-9d97-c0f14dc22836/fd017391-06fd-4a1e-b8fa-f4dffca49f50/3000x3000/zosimarcovernovibet_2.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "Sports",
+    "Soccer",
+    "Football",
+    "News",
+    "Sports News"
+   ],
+   "newest": 1795698409000
+  },
+  {
+   "feed": "https://anchor.fm/s/100a5a1f8/podcast/rss",
+   "title": "ΑΥΤΟΙ 3-0",
+   "author": "OneMan | Ρεπαπή - Μπιράκου - Γιαννόπουλος",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42958222/c068ed2407c10475.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Entertainment News"
+   ],
+   "newest": 1795698000000
+  },
+  {
+   "feed": "https://sacredbelt.com/feed/koinonika-anetoimos",
+   "title": "Κοινωνικά Ανέτοιμος",
+   "author": "Μάκης Παπασημακόπουλος",
+   "image": "https://d1e23wl0ezkmb7.cloudfront.net/koinonika-anetoimos/logo-watermarked.jpg",
+   "language": "el-gr",
+   "categories": [
+    "Comedy",
+    "Improv"
+   ],
+   "newest": 1795698000000
+  },
+  {
+   "feed": "https://feeds.acast.com/public/shows/5fa410322d9ce143ce36bfd7",
+   "title": "Ellinofreneia Official",
+   "author": "Digital Minds",
+   "image": "https://assets.pippa.io/shows/5fa410322d9ce143ce36bfd7/1612862979296-20f56c095f7db7830f47ab43ddaeefb8.jpeg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Politics",
+    "Comedy"
+   ],
+   "newest": 1795696781000
+  },
+  {
+   "feed": "https://anchor.fm/s/fe59e6fc/podcast/rss",
+   "title": "Ό,τι να 'ναι με τον Μάνο Βουλαρίνο",
+   "author": "ΣΚΑΪ Podcasts | Μάνος Βουλαρίνος",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42573047/42573047-1733413197056-84cc206709482.jpg",
+   "language": "el",
+   "categories": [
+    "Comedy"
+   ],
+   "newest": 1795696428000
+  },
+  {
+   "feed": "https://anchor.fm/s/f214213c/podcast/rss",
+   "title": "Χρονοκάψουλα",
+   "author": "SoundSphereMedia",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40514055/40514055-1786701972908-bf14a7071f056.jpg",
+   "language": "el",
+   "categories": [
+    "Society",
+    "Culture",
+    "Documentary"
+   ],
+   "newest": 1795693925000
+  },
+  {
+   "feed": "https://anchor.fm/s/7eb95540/podcast/rss",
+   "title": "Ράδιο 98.4",
+   "author": "Ράδιο 98.4",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21160752/21160752-1728294434194-4729c808388ee.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "News Commentary"
+   ],
+   "newest": 1795687305000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/qPWKehgp",
+   "title": "Άγρια Εγκλήματα, με τα μάτια της Άννας Καλλινίκου",
+   "author": "pod.gr",
+   "image": "https://image.simplecastcdn.com/images/a3834ee2-3ca0-469c-95c7-d1bcdeaa75d5/9df67764-c69e-4508-abab-49c2d6d02a00/3000x3000/eglhmata-new-1.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "True Crime",
+    "Society",
+    "Culture",
+    "Documentary",
+    "History"
+   ],
+   "newest": 1795679100000
+  },
+  {
+   "feed": "https://rss.buzzsprout.com/2067941.rss",
+   "title": "Nadia Talks Wellness",
+   "author": "Nadia Boule",
+   "image": "https://storage.buzzsprout.com/g98anraux6ywdd5i2jq3xuunhx83?.jpg",
+   "language": "el",
+   "categories": [
+    "Health",
+    "Fitness",
+    "Education",
+    "Science"
+   ],
+   "newest": 1795676400000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/2x4Sf1Fu",
+   "title": "ΤΟ ΒΗΜΑ Σήμερα",
+   "author": "Alter Ego Media",
+   "image": "https://image.simplecastcdn.com/images/b4ef00a7-e69a-4e86-9ecf-4672cbd11ef0/f9d9e15a-300a-4f55-8229-a9e0b82f2ffb/3000x3000/to-bhma-shmera-podcast-cover.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "News",
+    "Daily News",
+    "News Commentary",
+    "Politics"
+   ],
+   "newest": 1795662000000
+  },
+  {
+   "feed": "https://anchor.fm/s/315a99d0/podcast/rss",
+   "title": "True Crime Αλα Ελληνικά",
+   "author": "Mirto",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8180212/8180212-1597509219144-51e5e50c1f01.jpg",
+   "language": "el",
+   "categories": [
+    "True Crime"
+   ],
+   "newest": 1795640612000
   },
   {
    "feed": "https://anchor.fm/s/1fab1610/podcast/rss",
@@ -53,18 +171,6 @@
     "Basketball"
    ],
    "newest": 1795603152000
-  },
-  {
-   "feed": "https://anchor.fm/s/7eb95540/podcast/rss",
-   "title": "Ράδιο 98.4",
-   "author": "Ράδιο 98.4",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/21160752/21160752-1728294434194-4729c808388ee.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "News Commentary"
-   ],
-   "newest": 1795601154000
   },
   {
    "feed": "https://anchor.fm/s/f2708404/podcast/rss",
@@ -88,20 +194,6 @@
     "Daily News"
    ],
    "newest": 1795586400000
-  },
-  {
-   "feed": "https://feeds.simplecast.com/2x4Sf1Fu",
-   "title": "ΤΟ ΒΗΜΑ Σήμερα",
-   "author": "Alter Ego Media",
-   "image": "https://image.simplecastcdn.com/images/b4ef00a7-e69a-4e86-9ecf-4672cbd11ef0/f9d9e15a-300a-4f55-8229-a9e0b82f2ffb/3000x3000/to-bhma-shmera-podcast-cover.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "News",
-    "Daily News",
-    "News Commentary",
-    "Politics"
-   ],
-   "newest": 1795575600000
   },
   {
    "feed": "https://anchor.fm/s/15c65420/podcast/rss",
@@ -306,18 +398,6 @@
    "newest": 1795184245000
   },
   {
-   "feed": "https://anchor.fm/s/100a5a1f8/podcast/rss",
-   "title": "ΑΥΤΟΙ 3-0",
-   "author": "OneMan | Ρεπαπή - Μπιράκου - Γιαννόπουλος",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42958222/c068ed2407c10475.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Entertainment News"
-   ],
-   "newest": 1795176939000
-  },
-  {
    "feed": "https://feeds.simplecast.com/ineWX9zP",
    "title": "Ρώτα με ό,τι θες",
    "author": "LIFO PODCASTS",
@@ -332,45 +412,6 @@
    "newest": 1795150800000
   },
   {
-   "feed": "https://sacredbelt.com/feed/koinonika-anetoimos",
-   "title": "Κοινωνικά Ανέτοιμος",
-   "author": "Μάκης Παπασημακόπουλος",
-   "image": "https://d1e23wl0ezkmb7.cloudfront.net/koinonika-anetoimos/logo-watermarked.jpg",
-   "language": "el-gr",
-   "categories": [
-    "Comedy",
-    "Improv"
-   ],
-   "newest": 1795095000000
-  },
-  {
-   "feed": "https://anchor.fm/s/f214213c/podcast/rss",
-   "title": "Χρονοκάψουλα",
-   "author": "SoundSphereMedia",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40514055/40514055-1786701972908-bf14a7071f056.jpg",
-   "language": "el",
-   "categories": [
-    "Society",
-    "Culture",
-    "Documentary"
-   ],
-   "newest": 1795083994000
-  },
-  {
-   "feed": "https://rss.buzzsprout.com/2067941.rss",
-   "title": "Nadia Talks Wellness",
-   "author": "Nadia Boule",
-   "image": "https://storage.buzzsprout.com/g98anraux6ywdd5i2jq3xuunhx83?.jpg",
-   "language": "el",
-   "categories": [
-    "Health",
-    "Fitness",
-    "Education",
-    "Science"
-   ],
-   "newest": 1795075200000
-  },
-  {
    "feed": "https://anchor.fm/s/feb3f548/podcast/rss",
    "title": "Άλλο ένα podcast 3.0 - Θωμάς Ζάμπρας",
    "author": "LIFO PODCASTS, ΘΩΜΑΣ ΖΑΜΠΡΑΣ",
@@ -382,17 +423,6 @@
    "newest": 1795064400000
   },
   {
-   "feed": "https://anchor.fm/s/315a99d0/podcast/rss",
-   "title": "True Crime Αλα Ελληνικά",
-   "author": "Mirto",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/8180212/8180212-1597509219144-51e5e50c1f01.jpg",
-   "language": "el",
-   "categories": [
-    "True Crime"
-   ],
-   "newest": 1795037592000
-  },
-  {
    "feed": "https://anchor.fm/s/7231096c/podcast/rss",
    "title": "Ένα (podcast) με απ' όλα, με τον Γιώργο Βαγιάτα.",
    "author": "Vagiatas Giorgos",
@@ -402,21 +432,6 @@
     "Comedy"
    ],
    "newest": 1795016946000
-  },
-  {
-   "feed": "https://feeds.simplecast.com/u14O25aF",
-   "title": "Ζοσιμάρ",
-   "author": "SPORT24 | Θέμης Καίσαρης",
-   "image": "https://image.simplecastcdn.com/images/ea98b0fa-90ad-468f-9d97-c0f14dc22836/fd017391-06fd-4a1e-b8fa-f4dffca49f50/3000x3000/zosimarcovernovibet_2.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "Sports",
-    "Soccer",
-    "Football",
-    "News",
-    "Sports News"
-   ],
-   "newest": 1794998950000
   },
   {
    "feed": "https://anchor.fm/s/fb3029a0/podcast/rss",
@@ -453,19 +468,133 @@
    "newest": 1793595600000
   },
   {
-   "feed": "https://feeds.simplecast.com/qPWKehgp",
-   "title": "Άγρια Εγκλήματα, με τα μάτια της Άννας Καλλινίκου",
-   "author": "pod.gr",
-   "image": "https://image.simplecastcdn.com/images/a3834ee2-3ca0-469c-95c7-d1bcdeaa75d5/9df67764-c69e-4508-abab-49c2d6d02a00/3000x3000/eglhmata-new-1.jpg?aid=rss_feed",
+   "feed": "https://rss.buzzsprout.com/2021218.rss",
+   "title": "Επιεικείς Έφηβοι",
+   "author": "Λευτέρης & Αντώνης",
+   "image": "https://storage.buzzsprout.com/7f46uxqzowewf70n5yjcfevmpodz?.jpg",
+   "language": "el",
+   "categories": [
+    "Comedy",
+    "TV",
+    "Film",
+    "Music",
+    "Music History"
+   ],
+   "newest": 1795694400000
+  },
+  {
+   "feed": "https://feeds.simplecast.com/r02Ugxuo",
+   "title": "ATHENS VOICE Podcast",
+   "author": "ATHENS VOICE",
+   "image": "https://image.simplecastcdn.com/images/ad7f8fb7-845a-405d-a21e-2efe06228813/222e5be2-203f-4e91-ab87-0405c0509344/3000x3000/fb-20pin-20tetragono.jpg?aid=rss_feed",
+   "language": "el",
+   "categories": [
+    "Arts",
+    "Music"
+   ],
+   "newest": 1795687704000
+  },
+  {
+   "feed": "https://rss.buzzsprout.com/1904089.rss",
+   "title": "Τα podcasts του Newshub.gr",
+   "author": "newshub.gr",
+   "image": "https://storage.buzzsprout.com/f517efsql03xpag6ewq9q4fns2u6?.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "News Commentary",
+    "Science",
+    "Arts",
+    "Books"
+   ],
+   "newest": 1795683600000
+  },
+  {
+   "feed": "https://anchor.fm/s/1007a113c/podcast/rss",
+   "title": "Στη Χώρα Των Στερεοτύπων",
+   "author": "NEWS 24/7",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42929671/94cf549fa46e4bd0.jpg",
+   "language": "el",
+   "categories": [
+    "Society",
+    "Culture"
+   ],
+   "newest": 1795680000000
+  },
+  {
+   "feed": "https://anchor.fm/s/100880c24/podcast/rss",
+   "title": "Μυθιστορίες",
+   "author": "christinabravou",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42938833/42938833-1770398108494-3879584d51503.jpg",
+   "language": "el",
+   "categories": [
+    "Arts",
+    "Books"
+   ],
+   "newest": 1795676400000
+  },
+  {
+   "feed": "https://rss.buzzsprout.com/1942324.rss",
+   "title": "Όλα είναι δρόμος",
+   "author": "Γιώργος Σαββίδης",
+   "image": "https://storage.buzzsprout.com/h2qv1fslx9p5bx9fafoikg8uf01g?.jpg",
+   "language": "el",
+   "categories": [
+    "Sports",
+    "Running",
+    "Health",
+    "Fitness"
+   ],
+   "newest": 1795676400000
+  },
+  {
+   "feed": "https://feeds.transistor.fm/terror-404",
+   "title": "Terror 404",
+   "author": "It's My Life Network",
+   "image": "https://img.transistorcdn.com/2a35urTs8DnXZFGNN1jY5y7IzIoLV6Lpbr2rIwmnXG8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyMjk2LzE2MjQ4/ODA0MTMtYXJ0d29y/ay5qcGc.jpg",
    "language": "el",
    "categories": [
     "True Crime",
-    "Society",
-    "Culture",
-    "Documentary",
-    "History"
+    "Comedy"
    ],
-   "newest": 1792011600000
+   "newest": 1795668900000
+  },
+  {
+   "feed": "https://feed.podbean.com/miastigmiparafrosinis/feed.xml",
+   "title": "Μια στιγμή παραφροσύνης",
+   "author": "Christos Sotirakopoulos",
+   "image": "https://pbcdn1.podbean.com/imglogo/image-logo/19197671/Mia_Stigmi_Parafrosinis_Cover_7giiv.jpg",
+   "language": "el",
+   "categories": [
+    "Sports"
+   ],
+   "newest": 1795653000000
+  },
+  {
+   "feed": "https://feeds.feedburner.com/mpogiopoulos",
+   "title": "Νίκος Μπογιόπουλος",
+   "author": "Νίκος Μπογιόπουλος",
+   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37380521/37380521-1681924821198-90f42f2f4ddf8.jpg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Politics"
+   ],
+   "newest": 1795639198000
+  },
+  {
+   "feed": "https://feeds.acast.com/public/shows/6a2a988285cf45e0eb7d6573",
+   "title": "K Politics",
+   "author": "Kathimerini",
+   "image": "https://assets.pippa.io/shows/6a2a988285cf45e0eb7d6573/1781184432594-2012f289-7a85-4da1-a9b4-0eaf2391b9fd.jpeg",
+   "language": "el",
+   "categories": [
+    "News",
+    "Politics",
+    "Business News",
+    "Daily News"
+   ],
+   "newest": 1795621117000
   },
   {
    "feed": "https://feeds.transistor.fm/623baa3d-d91e-4bab-bd4b-a9cab93ba51a",
@@ -481,18 +610,6 @@
    "newest": 1795615135000
   },
   {
-   "feed": "https://feeds.simplecast.com/r02Ugxuo",
-   "title": "ATHENS VOICE Podcast",
-   "author": "ATHENS VOICE",
-   "image": "https://image.simplecastcdn.com/images/ad7f8fb7-845a-405d-a21e-2efe06228813/222e5be2-203f-4e91-ab87-0405c0509344/3000x3000/fb-20pin-20tetragono.jpg?aid=rss_feed",
-   "language": "el",
-   "categories": [
-    "Arts",
-    "Music"
-   ],
-   "newest": 1795591288000
-  },
-  {
    "feed": "https://feeds.simplecast.com/YHMGXfHj",
    "title": "Το Podcast του Οδυσσέα Ιωάννου",
    "author": "NEWS24/7 | Οδυσσέας Ιωάννου",
@@ -502,45 +619,6 @@
     "Arts"
    ],
    "newest": 1795586400000
-  },
-  {
-   "feed": "https://feeds.transistor.fm/terror-404",
-   "title": "Terror 404",
-   "author": "It's My Life Network",
-   "image": "https://img.transistorcdn.com/2a35urTs8DnXZFGNN1jY5y7IzIoLV6Lpbr2rIwmnXG8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9zaG93/LzIyMjk2LzE2MjQ4/ODA0MTMtYXJ0d29y/ay5qcGc.jpg",
-   "language": "el",
-   "categories": [
-    "True Crime",
-    "Comedy"
-   ],
-   "newest": 1795582500000
-  },
-  {
-   "feed": "https://feeds.feedburner.com/mpogiopoulos",
-   "title": "Νίκος Μπογιόπουλος",
-   "author": "Νίκος Μπογιόπουλος",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/37380521/37380521-1681924821198-90f42f2f4ddf8.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Politics"
-   ],
-   "newest": 1795560947000
-  },
-  {
-   "feed": "https://rss.buzzsprout.com/1904089.rss",
-   "title": "Τα podcasts του Newshub.gr",
-   "author": "newshub.gr",
-   "image": "https://storage.buzzsprout.com/f517efsql03xpag6ewq9q4fns2u6?.jpg",
-   "language": "el",
-   "categories": [
-    "News",
-    "News Commentary",
-    "Science",
-    "Arts",
-    "Books"
-   ],
-   "newest": 1795557600000
   },
   {
    "feed": "https://anchor.fm/s/112d0f44/podcast/rss",
@@ -628,21 +706,6 @@
     "Mental Health"
    ],
    "newest": 1795505400000
-  },
-  {
-   "feed": "https://rss.buzzsprout.com/2021218.rss",
-   "title": "Επιεικείς Έφηβοι",
-   "author": "Λευτέρης & Αντώνης",
-   "image": "https://storage.buzzsprout.com/7f46uxqzowewf70n5yjcfevmpodz?.jpg",
-   "language": "el",
-   "categories": [
-    "Comedy",
-    "TV",
-    "Film",
-    "Music",
-    "Music History"
-   ],
-   "newest": 1795489200000
   },
   {
    "feed": "https://feeds.acast.com/public/shows/61ebe716fd33c00012c9abe4",
@@ -768,43 +831,6 @@
    "newest": 1795159800000
   },
   {
-   "feed": "https://anchor.fm/s/1007a113c/podcast/rss",
-   "title": "Στη Χώρα Των Στερεοτύπων",
-   "author": "NEWS 24/7",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42929671/94cf549fa46e4bd0.jpg",
-   "language": "el",
-   "categories": [
-    "Society",
-    "Culture"
-   ],
-   "newest": 1795075200000
-  },
-  {
-   "feed": "https://rss.buzzsprout.com/1942324.rss",
-   "title": "Όλα είναι δρόμος",
-   "author": "Γιώργος Σαββίδης",
-   "image": "https://storage.buzzsprout.com/h2qv1fslx9p5bx9fafoikg8uf01g?.jpg",
-   "language": "el",
-   "categories": [
-    "Sports",
-    "Running",
-    "Health",
-    "Fitness"
-   ],
-   "newest": 1795071600000
-  },
-  {
-   "feed": "https://feed.podbean.com/miastigmiparafrosinis/feed.xml",
-   "title": "Μια στιγμή παραφροσύνης",
-   "author": "Christos Sotirakopoulos",
-   "image": "https://pbcdn1.podbean.com/imglogo/image-logo/19197671/Mia_Stigmi_Parafrosinis_Cover_7giiv.jpg",
-   "language": "el",
-   "categories": [
-    "Sports"
-   ],
-   "newest": 1795048200000
-  },
-  {
    "feed": "https://rss.buzzsprout.com/1826628.rss",
    "title": "Something Wicked",
    "author": "Maria Vasilikou",
@@ -817,32 +843,6 @@
     "Education"
    ],
    "newest": 1795017600000
-  },
-  {
-   "feed": "https://feeds.acast.com/public/shows/6a2a988285cf45e0eb7d6573",
-   "title": "K Politics",
-   "author": "Kathimerini",
-   "image": "https://assets.pippa.io/shows/6a2a988285cf45e0eb7d6573/1781184432594-2012f289-7a85-4da1-a9b4-0eaf2391b9fd.jpeg",
-   "language": "el",
-   "categories": [
-    "News",
-    "Politics",
-    "Business News",
-    "Daily News"
-   ],
-   "newest": 1795017502000
-  },
-  {
-   "feed": "https://anchor.fm/s/100880c24/podcast/rss",
-   "title": "Μυθιστορίες",
-   "author": "christinabravou",
-   "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42938833/42938833-1770398108494-3879584d51503.jpg",
-   "language": "el",
-   "categories": [
-    "Arts",
-    "Books"
-   ],
-   "newest": 1794985200000
   },
   {
    "feed": "https://feeds.simplecast.com/csbIsi_A",
@@ -1040,17 +1040,6 @@
    ],
    "shows": [
     {
-     "feed": "https://anchor.fm/s/11879b7d8/podcast/rss",
-     "title": "The Hook",
-     "author": "Parapolitika.gr",
-     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46955974/46955974-1791890920289-34abcc374736f.jpg",
-     "language": "el",
-     "categories": [
-      "News"
-     ],
-     "newest": 1795603879000
-    },
-    {
      "feed": "https://anchor.fm/s/11821127c/podcast/rss",
      "title": "Δική μου η μπάλα",
      "author": "Parapolitika.gr",
@@ -1059,7 +1048,18 @@
      "categories": [
       "Sports"
      ],
-     "newest": 1795431723000
+     "newest": 1795693226000
+    },
+    {
+     "feed": "https://anchor.fm/s/11879b7d8/podcast/rss",
+     "title": "The Hook",
+     "author": "Parapolitika.gr",
+     "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46955974/46955974-1791890920289-34abcc374736f.jpg",
+     "language": "el",
+     "categories": [
+      "News"
+     ],
+     "newest": 1795686121000
     },
     {
      "feed": "https://anchor.fm/s/113a8c960/podcast/rss",
@@ -1096,7 +1096,7 @@
       "Stand-up",
       "Music"
      ],
-     "newest": 1795608959000
+     "newest": 1795699390000
     }
    ]
   },
@@ -1120,7 +1120,7 @@
       "News",
       "News Commentary"
      ],
-     "newest": 1795601154000
+     "newest": 1795687305000
     }
    ]
   },
@@ -1142,7 +1142,7 @@
      "categories": [
       "Music"
      ],
-     "newest": 1795604300000
+     "newest": 1795690284000
     }
    ]
   }
@@ -1152,6 +1152,18 @@
    "name": "Sacred Belt",
    "image": "https://d1e23wl0ezkmb7.cloudfront.net/koinonika-anetoimos/logo-watermarked.jpg",
    "shows": [
+    {
+     "feed": "https://sacredbelt.com/feed/koinonika-anetoimos",
+     "title": "Κοινωνικά Ανέτοιμος",
+     "author": "Μάκης Παπασημακόπουλος",
+     "image": "https://d1e23wl0ezkmb7.cloudfront.net/koinonika-anetoimos/logo-watermarked.jpg",
+     "language": "el-gr",
+     "categories": [
+      "Comedy",
+      "Improv"
+     ],
+     "newest": 1795698000000
+    },
     {
      "feed": "https://sacredbelt.com/feed/calcio-sbagliato",
      "title": "Calcio Sbagliato",
@@ -1163,18 +1175,6 @@
       "Soccer"
      ],
      "newest": 1795530600000
-    },
-    {
-     "feed": "https://sacredbelt.com/feed/koinonika-anetoimos",
-     "title": "Κοινωνικά Ανέτοιμος",
-     "author": "Μάκης Παπασημακόπουλος",
-     "image": "https://d1e23wl0ezkmb7.cloudfront.net/koinonika-anetoimos/logo-watermarked.jpg",
-     "language": "el-gr",
-     "categories": [
-      "Comedy",
-      "Improv"
-     ],
-     "newest": 1795095000000
     },
     {
      "feed": "https://sacredbelt.com/feed/kati-na-kaiei",
